@@ -1,0 +1,59 @@
+body {
+  background-color: #282828;
+  text-align: center; 
+  margin-top: 100px;
+  font-family: sans-serif;
+}
+
+#colums {
+  position: absolute;
+  left: 50%;
+  margin-left: -585px;
+}
+
+#logo {
+  position: relative;
+  top: 120px;
+}
+
+#main {
+  background-color: black;
+  height: 420px;
+}
+
+#slogan {
+  text-transform: uppercase;
+  top: 160px;
+  color: white;
+  position: relative;
+  margin: 0;
+  font-size: 20px;
+}
+
+#dash {
+  top: 165px;
+  position: relative;
+}
+
+#images {
+  position: relative;
+  top: 179px;
+  padding-right: 30px;
+}
+
+#images img {
+  margin-left: 30px;
+
+}
+
+#footer {
+  font-size: 15px;
+  position: relative;
+  color: white;
+  top: 245px;
+  
+}
+
+span {
+  color: #00C9FC;
+}
